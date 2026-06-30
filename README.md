@@ -196,8 +196,4 @@ Real-world **Delhivery logistics dataset** mapped across 20 major Indian logisti
 
 ---
 
-## 📄 License
-MIT License — Free for educational and commercial use.
-
----
 *Built as an industry-grade capstone project in ML + Graph Analytics.*
